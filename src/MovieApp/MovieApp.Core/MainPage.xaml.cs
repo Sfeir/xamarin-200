@@ -1,4 +1,5 @@
-﻿using Xamarin.Forms;
+﻿using MovieApp.Core.Store;
+using Xamarin.Forms;
 
 namespace MovieApp.Core
 {
@@ -7,6 +8,8 @@ namespace MovieApp.Core
         public MainPage()
         {
             InitializeComponent();
+
+            BindingContext = new MovieRepository().Movies;
         }
     }
 }

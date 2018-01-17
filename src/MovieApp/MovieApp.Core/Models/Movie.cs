@@ -28,6 +28,11 @@ namespace MovieApp.Core.Models
 
         public DateTime ReleaseDate { get; set; }
 
+        public override string ToString()
+        {
+            return Title;
+        }
+
         public event PropertyChangedEventHandler PropertyChanged;
 
         protected virtual void OnPropertyChanged([CallerMemberName] string propertyName = null)
