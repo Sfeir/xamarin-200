@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MovieApp.Core.Controls"
              x:Class="MovieApp.Core.AddMoviePage">
 
-    <StackLayout>
-        <Label Text="Title"></Label>
-        <Entry x:Name="TitleEntry"></Entry>
-        <Label Text="Overview"></Label>
-        <Editor x:Name="OverviewEditor"></Editor>
-        <Label Text="Release date"></Label>
-        <DatePicker x:Name="ReleaseDatePicker"></DatePicker>
-    </StackLayout>
+    <ScrollView>
+        <StackLayout Spacing="4" Margin="6">
+            <Label Text="Title"></Label>
+            <Entry x:Name="TitleEntry"></Entry>
+            <Label Text="Overview"></Label>
+            <local:ExtendedEditor x:Name="OverviewEditor"></local:ExtendedEditor>
+            <Label Text="Release date"></Label>
+            <DatePicker x:Name="ReleaseDatePicker"></DatePicker>
+        </StackLayout>
+    </ScrollView>
 
 </ContentPage>
