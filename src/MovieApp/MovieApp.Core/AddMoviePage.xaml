@@ -2,14 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MovieApp.Core.AddMoviePage">
-    
+
     <StackLayout>
         <Label Text="Title"></Label>
-        <Entry></Entry>
+        <Entry x:Name="TitleEntry"></Entry>
         <Label Text="Overview"></Label>
-        <Editor></Editor>
+        <Editor x:Name="OverviewEditor"></Editor>
         <Label Text="Release date"></Label>
-        <DatePicker></DatePicker>
+        <DatePicker x:Name="ReleaseDatePicker"></DatePicker>
     </StackLayout>
-    
+
 </ContentPage>
