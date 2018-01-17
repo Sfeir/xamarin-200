@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using MovieApp.Core.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -15,6 +15,8 @@ namespace MovieApp.Core
         public AddMoviePage()
         {
             InitializeComponent();
+
+            BindingContext = new Movie();
 
             this.TitleEntry.Text = "The Dark Knight";
 
