@@ -5,7 +5,9 @@
              xmlns:models="clr-namespace:MovieApp.Core.Models"
              x:Class="MovieApp.Core.MainPage">
 
-    <ListView ItemsSource="{Binding}" CachingStrategy="RecycleElement">
+    <ListView ItemsSource="{Binding}" 
+              ItemSelected="ListView_OnItemSelected"
+              CachingStrategy="RecycleElement">
         <ListView.ItemTemplate>
             <DataTemplate x:DataType="models:Movie">
                 <ImageCell ImageSource="{Binding Image}"
