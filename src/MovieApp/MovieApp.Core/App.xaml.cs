@@ -8,7 +8,7 @@ namespace MovieApp.Core
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new AddMoviePage();
         }
 
         protected override void OnStart()
