@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HelloApp.MainPage">
+    <StackLayout VerticalOptions="CenterAndExpand" Padding="12">
+        <Entry x:Name="nameEntry"  />
+        <Label x:Name="helloLabel" HorizontalOptions="CenterAndExpand" Text="Hello Xamarin!" />
+    </StackLayout>
+</ContentPage>
