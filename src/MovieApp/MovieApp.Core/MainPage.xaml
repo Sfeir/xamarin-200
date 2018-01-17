@@ -2,11 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:MovieApp"
+             xmlns:models="clr-namespace:MovieApp.Core.Models"
              x:Class="MovieApp.Core.MainPage">
 
-    <ListView ItemsSource="{Binding}">
+    <ListView ItemsSource="{Binding}" CachingStrategy="RecycleElement">
         <ListView.ItemTemplate>
-            <DataTemplate>
+            <DataTemplate x:DataType="models:Movie">
                 <ImageCell ImageSource="{Binding Image}"
                        Text="{Binding Title}"
                        Detail="{Binding Overview}">

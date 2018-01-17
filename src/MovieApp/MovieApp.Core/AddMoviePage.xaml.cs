@@ -9,7 +9,6 @@ using Xamarin.Forms.Xaml;
 
 namespace MovieApp.Core
 {
-    [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class AddMoviePage : ContentPage
     {
         private Movie movie;
