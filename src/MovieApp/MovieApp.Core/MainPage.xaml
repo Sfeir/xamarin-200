@@ -5,8 +5,8 @@
              xmlns:models="clr-namespace:MovieApp.Core.Models"
              x:Class="MovieApp.Core.MainPage">
 
-    <ListView ItemsSource="{Binding}" 
-              ItemSelected="ListView_OnItemSelected"
+    <ListView ItemsSource="{Binding Movies}" 
+              SelectedItem="{Binding SelectedMovie, Mode=TwoWay}"
               CachingStrategy="RecycleElement">
         <ListView.ItemTemplate>
             <DataTemplate x:DataType="models:Movie">

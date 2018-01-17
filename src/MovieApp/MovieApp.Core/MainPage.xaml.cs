@@ -1,5 +1,6 @@
 ﻿using MovieApp.Core.Models;
 using MovieApp.Core.Store;
+using MovieApp.Core.ViewModels;
 using Xamarin.Forms;
 
 namespace MovieApp.Core
@@ -10,12 +11,8 @@ namespace MovieApp.Core
         {
             InitializeComponent();
 
-            BindingContext = new MovieRepository().Movies;
-        }
-
-        private void ListView_OnItemSelected(object sender, SelectedItemChangedEventArgs e)
-        {
-            Navigation.PushAsync(new DetailsPage((Movie)e.SelectedItem));
+            var viewModel = new MainViewModel(Navigation);
+            BindingContext = viewModel;
         }
     }
 }
