@@ -13,5 +13,10 @@ namespace HelloApp
         {
             InitializeComponent();
         }
+
+        private void NameEntry_OnTextChanged(object sender, TextChangedEventArgs e)
+        {
+            helloLabel.Text = $"Hello {nameEntry.Text}";
+        }
     }
 }

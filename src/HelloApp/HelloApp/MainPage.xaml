@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="HelloApp.MainPage">
     <StackLayout VerticalOptions="CenterAndExpand" Padding="12">
-        <Entry x:Name="nameEntry"  />
+        <Entry x:Name="nameEntry" TextChanged="NameEntry_OnTextChanged" />
         <Label x:Name="helloLabel" HorizontalOptions="CenterAndExpand" Text="Hello Xamarin!" />
     </StackLayout>
 </ContentPage>
