@@ -1,0 +1,414 @@
+﻿{
+  "page": 1,
+  "total_results": 98,
+  "total_pages": 5,
+  "results": [
+    {
+      "vote_count": 2209,
+      "id": 268,
+      "video": false,
+      "vote_average": 7,
+      "title": "Batman",
+      "popularity": 14.386951,
+      "poster_path": "/kBf3g9crrADGMc2AMAMlLBgSm2h.jpg",
+      "original_language": "en",
+      "original_title": "Batman",
+      "genre_ids": [
+        14,
+        28
+      ],
+      "backdrop_path": "/2blmxp2pr4BhwQr74AdCfwgfMOb.jpg",
+      "adult": false,
+      "overview": "Violence et corruption règnent dans la ville de Gotham City. La mafia dirige la ville à sa manière, au nez et à la barbe des autorités, complètement dépassées par les événements. Depuis quelques semaines cependant, un mystérieux justicier, drapé dans un costume de chauve-souris, terrorise les malfaiteurs et sème l'inquiétude dans les rangs de la mafia. Une jeune journaliste, Vicki Vale, mène l'enquête. C'est ainsi qu'elle fait la connaissance d'un séduisant mais excentrique milliardaire, Bruce Wayne. Celui-ci n'est autre que Batman, qui l'a déjà sauvée. Elle rencontre également un odieux truand, Jack Napier, bras droit du parrain Carl Grissom...",
+      "release_date": "1989-06-23"
+    },
+    {
+      "vote_count": 220,
+      "id": 2661,
+      "video": false,
+      "vote_average": 6.1,
+      "title": "Batman",
+      "popularity": 9.052995,
+      "poster_path": "/yhy4r6fGHXPRFRXksdg1nHGTzid.jpg",
+      "original_language": "en",
+      "original_title": "Batman",
+      "genre_ids": [
+        10751,
+        12,
+        35,
+        878,
+        80
+      ],
+      "backdrop_path": "/5gcdof2PKH1emllBdN1VXU706IP.jpg",
+      "adult": false,
+      "overview": "Batman et Robin combattent le Joker, Catwoman, le Pingouin et l'Homme-Mystère, unis dans le vol d'une invention capable de déshydrater entièrement tout être vivant.",
+      "release_date": "1966-07-30"
+    },
+    {
+      "vote_count": 7706,
+      "id": 272,
+      "video": false,
+      "vote_average": 7.5,
+      "title": "Batman Begins",
+      "popularity": 27.717417,
+      "poster_path": "/zfVFOo2XCHbeA0mXbst42TAGhfC.jpg",
+      "original_language": "en",
+      "original_title": "Batman Begins",
+      "genre_ids": [
+        28,
+        80,
+        18
+      ],
+      "backdrop_path": "/65JWXDCAfwHhJKnDwRnEgVB411X.jpg",
+      "adult": false,
+      "overview": "Comment un homme seul peut-il changer le monde ? Telle est la question qui hante Bruce Wayne depuis cette nuit tragique où ses parents furent abattus sous ses yeux, dans une ruelle de Gotham City. Torturé par un profond sentiment de colère et de culpabilité, le jeune héritier de cette richissime famille fuit Gotham pour un long et discret voyage à travers le monde. Le but de ses pérégrinations : sublimer sa soif de vengeance en trouvant de nouveaux moyens de lutter contre l'injustice.",
+      "release_date": "2005-06-10"
+    },
+    {
+      "vote_count": 1501,
+      "id": 415,
+      "video": false,
+      "vote_average": 4.2,
+      "title": "Batman & Robin",
+      "popularity": 16.69404,
+      "poster_path": "/tjQiGGNqzboXkDE394G3moWHYAs.jpg",
+      "original_language": "en",
+      "original_title": "Batman & Robin",
+      "genre_ids": [
+        28,
+        80,
+        14
+      ],
+      "backdrop_path": "/h4tsxkwe0lRHBK1WHliNASK63IK.jpg",
+      "adult": false,
+      "overview": "Dans cette nouvelle aventure, Batman aura bien besoin de son audacieux partenaire Robin, juché sur sa fringante moto turbo. En effet, le glacial M. Frezze fait régner une vague de froid polaire sur Gotham City avec la complicité de la belle et vénéneuse Poison Ivy, au baiser mortel et aux formes sinueuses, qui rêve de soumettre le monde au pouvoir des femmes-fleurs.",
+      "release_date": "1997-06-20"
+    },
+    {
+      "vote_count": 1766,
+      "id": 364,
+      "video": false,
+      "vote_average": 6.6,
+      "title": "Batman, le défi",
+      "popularity": 16.037338,
+      "poster_path": "/wYa8lSb2fQA5NcU79aOEFQCbVo6.jpg",
+      "original_language": "en",
+      "original_title": "Batman Returns",
+      "genre_ids": [
+        28,
+        14
+      ],
+      "backdrop_path": "/wNIE5dpkiHU2csDRptMutFjAGiV.jpg",
+      "adult": false,
+      "overview": "Non seulement Batman doit affronter le Pingouin, monstre génétique doté d'une intelligence à toute épreuve, qui sème la terreur mais, plus difficile encore, il doit faire face à la séduction de deux super-femmes, la douce Selina Kyle et la féline Catwoman qui va lui donner bien du fil à retordre. Si Bruce Wayne apprécie Selina, Batman n'est pas insensible au charme de Catwoman.",
+      "release_date": "1992-06-19"
+    },
+    {
+      "vote_count": 1575,
+      "id": 414,
+      "video": false,
+      "vote_average": 5.2,
+      "title": "Batman Forever",
+      "popularity": 12.227501,
+      "poster_path": "/oxcsYzAO8tgVMBGe6N0iIB7sBjx.jpg",
+      "original_language": "en",
+      "original_title": "Batman Forever",
+      "genre_ids": [
+        28,
+        80,
+        14
+      ],
+      "backdrop_path": "/gVTTtYgKIBurNvkGiGC6735b8y.jpg",
+      "adult": false,
+      "overview": "Nul ne sait que Bruce Wayne, le patron d'un vaste et puissant consortium, l'homme le plus riche des États-Unis, revêt chaque nuit la combinaison et le masque de cuir de Batman pour voler au secours de ses concitoyens injustement opprimés. Personne, hormis son fidèle majordome Alfred et son vieil ami, le commissaire Gordon.",
+      "release_date": "1995-06-16"
+    },
+    {
+      "vote_count": 1533,
+      "id": 324849,
+      "video": false,
+      "vote_average": 7.2,
+      "title": "LEGO Batman: Le film",
+      "popularity": 18.68245,
+      "poster_path": "/iGbEqeFC9tffYb4MkiaEP7uheU5.jpg",
+      "original_language": "en",
+      "original_title": "The Lego Batman Movie",
+      "genre_ids": [
+        28,
+        16,
+        35,
+        10751,
+        14
+      ],
+      "backdrop_path": "/gbO4tWvMC0oLbNvHP9Zth3eUeAA.jpg",
+      "adult": false,
+      "overview": "Il en rêvait depuis La Grande Aventure Lego : Batman est enfin le héros de son propre film ! Mais la situation a bien changé à Gotham – et s'il veut sauver la ville des griffes du Joker, il lui faudra arrêter de jouer au justicier masqué et découvrir le travail d'équipe ! Peut-être pourra-t-il alors se décoincer un peu…",
+      "release_date": "2017-02-08"
+    },
+    {
+      "vote_count": 92,
+      "id": 408648,
+      "video": false,
+      "vote_average": 5.8,
+      "title": "Batman et Harley Quinn",
+      "popularity": 13.487331,
+      "poster_path": "/A7mzdcy8Cbr123RfDYaNqZXEqW8.jpg",
+      "original_language": "en",
+      "original_title": "Batman and Harley Quinn",
+      "genre_ids": [
+        12,
+        28,
+        16
+      ],
+      "backdrop_path": "/mBzNVeSRX5LVCi7a3UrPeFWxRqw.jpg",
+      "adult": false,
+      "overview": "La patience de Batman est mise à l’épreuve lorsqu’il part avec Harley Quinn à la poursuite de sa vieille coéquipière  : Poison Ivy…",
+      "release_date": "2017-08-14"
+    },
+    {
+      "vote_count": 7360,
+      "id": 209112,
+      "video": false,
+      "vote_average": 5.7,
+      "title": "Batman v Superman: L’Aube de la Justice",
+      "popularity": 50.751262,
+      "poster_path": "/4s6qhbC8ocuy6g6HsrLCVLRGwPL.jpg",
+      "original_language": "en",
+      "original_title": "Batman v Superman: Dawn of Justice",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "backdrop_path": "/vsjBeMPZtyB7yNsYY56XYxifaQZ.jpg",
+      "adult": false,
+      "overview": "Craignant que Superman n'abuse de sa toute-puissance, le Chevalier noir décide de l'affronter : le monde a-t-il davantage besoin d'un super-héros aux pouvoirs sans limite ou d'un justicier à la force redoutable mais d'origine humaine ? Pendant ce temps-là, une terrible menace se profile à l'horizon…",
+      "release_date": "2016-03-23"
+    },
+    {
+      "vote_count": 178,
+      "id": 13851,
+      "video": false,
+      "vote_average": 6.6,
+      "title": "Batman: Gotham Knight",
+      "popularity": 11.794368,
+      "poster_path": "/eIAhXROHG8t3QQ7qU0HfZgL5XFf.jpg",
+      "original_language": "en",
+      "original_title": "Batman: Gotham Knight",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "backdrop_path": "/cAW1NAahXhBUFJZgicBIGPs2OkZ.jpg",
+      "adult": false,
+      "overview": "Anthologie de 6 histoires relatant les aventures de Batman.",
+      "release_date": "2008-07-03"
+    },
+    {
+      "vote_count": 193,
+      "id": 366924,
+      "video": false,
+      "vote_average": 6.8,
+      "title": "Batman: Mauvais Sang",
+      "popularity": 10.777948,
+      "poster_path": "/xp65MaH8bycr5v14f8jPO2NEXlX.jpg",
+      "original_language": "en",
+      "original_title": "Batman: Bad Blood",
+      "genre_ids": [
+        28,
+        16,
+        878
+      ],
+      "backdrop_path": "/1jpJpe5sx0AzSLOMFfds0s5alSw.jpg",
+      "adult": false,
+      "overview": "Damian reprend sa place en tant que Robin pour découvrir que son père est porté disparu et que c’est Nightwing qui se déguise en Batman pour sauver les apparences. Pendant son enqûête sur la disparition de Bruce Wayne, même Alfred devient un infiltré, et rapidement ils sont tous entrainés aux côtés de la mystérieuse Batwoman, qui est peut-être la dernière personne à avoir vu Batman en vie. Mais alors que la « Bat Family » continue de suivre sa trace, ils arrivent à la conclusion inéluctable que le Chevalier Noir a sombré du côté obscur, devenant ainsi le nouveau patron du crime le plus dangereux de Gotham.",
+      "release_date": "2016-03-22"
+    },
+    {
+      "vote_count": 501,
+      "id": 382322,
+      "video": false,
+      "vote_average": 6.1,
+      "title": "Batman: The Killing Joke",
+      "popularity": 10.185987,
+      "poster_path": "/zm0ODjtfJfJW0W269LqsQl5OhJ8.jpg",
+      "original_language": "en",
+      "original_title": "Batman: The Killing Joke",
+      "genre_ids": [
+        28,
+        16,
+        80,
+        18
+      ],
+      "backdrop_path": "/iYrE2zV1DfZ3l7Lh4frHzNwFncq.jpg",
+      "adult": false,
+      "overview": "Adaptation de l'un des plus célèbres comic books sur Batman, qui revient sur la naissance du Joker et la façon dont celui-ci paralyse la fille du Commissaire Gordon.",
+      "release_date": "2016-07-21"
+    },
+    {
+      "vote_count": 164,
+      "id": 22855,
+      "video": false,
+      "vote_average": 6.7,
+      "title": "SuperMan/Batman: Ennemis publics",
+      "popularity": 9.569594,
+      "poster_path": "/3UwElaZFAMGSPQ7wmG0iS4SHgiM.jpg",
+      "original_language": "en",
+      "original_title": "Superman/Batman: Public Enemies",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "backdrop_path": "/aMyEMGuW2NV3A0whuEM7VKp6M73.jpg",
+      "adult": false,
+      "overview": "A situation désespérée, mesures désespérées: Lex Luthor est Président et la Ligue des Justiciers est au service du gouvernement. Seuls Batman et Superman se dressent contre ce nouveau régime et leur infidélité se trouve être exactement ce que Lex Luthor prévoyait. Utilisant leur statut de paria pour fomenter une vendetta contre Superman, Luthor fait enfin un pas vers la victoire dans son complot contre l'Homme de Fer.",
+      "release_date": "2009-09-29"
+    },
+    {
+      "vote_count": 174,
+      "id": 45162,
+      "video": false,
+      "vote_average": 7,
+      "title": "Superman/Batman: Apocalypse",
+      "popularity": 9.526514,
+      "poster_path": "/wNtrbql45NqvomsYKr3uHXgFj2D.jpg",
+      "original_language": "en",
+      "original_title": "Superman/Batman: Apocalypse",
+      "genre_ids": [
+        28,
+        12,
+        16
+      ],
+      "backdrop_path": "/bMNEElThWSUgzFUOn5SYU4eHYXG.jpg",
+      "adult": false,
+      "overview": "Batman découvre qu'une fusée s'est écrasée dans le port de Gotham. A l'intérieur, une fille de Krypton. Celle-ci se déchaîne à travers la ville de Gotham mais Superman vient aider à la calmer, et les deux héros l'amènent à la batcave...",
+      "release_date": "2010-09-28"
+    },
+    {
+      "vote_count": 261,
+      "id": 69735,
+      "video": false,
+      "vote_average": 7.1,
+      "title": "Batman : Les Origines",
+      "popularity": 9.412288,
+      "poster_path": "/bI1YVuhBN6Vws1GP9Mf01DyhC2s.jpg",
+      "original_language": "en",
+      "original_title": "Batman: Year One",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        80,
+        878
+      ],
+      "backdrop_path": "/hAhMOPPPxzCKsCu5rUMYdwS8Yb5.jpg",
+      "adult": false,
+      "overview": "Adaptation de la série de comics signée Frank Miller et David Mazzucchelli : les difficiles premiers pas du jeune Bruce Wayne en tant que Batman. Combattant la pègre et la corruption, il ne dispose d'aucun allié. Mais un jeune policier idéaliste vient d'arriver à Gotham City : James Gordon.",
+      "release_date": "2011-09-27"
+    },
+    {
+      "vote_count": 301,
+      "id": 251519,
+      "video": false,
+      "vote_average": 6.8,
+      "title": "Le fils de Batman",
+      "popularity": 9.241435,
+      "poster_path": "/j3SFJqZPeeB9g5JMU7UFLgEqj2T.jpg",
+      "original_language": "en",
+      "original_title": "Son of Batman",
+      "genre_ids": [
+        16,
+        28,
+        12
+      ],
+      "backdrop_path": "/omK35Mr3oks6bd5efrgsO7CzmLP.jpg",
+      "adult": false,
+      "overview": "Batman est choqué d'apprendre que non seulement il a un fils, mais que la mère est Talia, fille du terroriste international Ra's Al Ghul. Néanmoins, le Chevalier Noir et son garçon (qui devient le nouveau Robin) deviennent alliés bien malgré eux lorsque Deathstoke recrute une équipe de Man-Bats ninjas à des fins criminelles...",
+      "release_date": "2014-04-20"
+    },
+    {
+      "vote_count": 11,
+      "id": 125249,
+      "video": false,
+      "vote_average": 7,
+      "title": "The Bat Man",
+      "popularity": 2.803526,
+      "poster_path": "/7wnRn8iQ0QInEK1CaZFqw1zPhht.jpg",
+      "original_language": "en",
+      "original_title": "The Bat Man",
+      "genre_ids": [
+        28
+      ],
+      "backdrop_path": "/xEG5iP1qZCiDt4BefSpLy1d54zE.jpg",
+      "adult": false,
+      "overview": "",
+      "release_date": "1943-07-16"
+    },
+    {
+      "vote_count": 59,
+      "id": 20077,
+      "video": false,
+      "vote_average": 6.5,
+      "title": "Batman contre Dracula",
+      "popularity": 7.011458,
+      "poster_path": "/vPr6t2stb4NJ54151ms5xu8bykP.jpg",
+      "original_language": "en",
+      "original_title": "Batman vs Dracula",
+      "genre_ids": [
+        14,
+        16,
+        27,
+        28,
+        53,
+        878
+      ],
+      "backdrop_path": "/4aAlheGhU4rkDE4gSjekBnRXdGL.jpg",
+      "adult": false,
+      "overview": "Batman affronte une autre chauve-souris : Comte Dracula qui n'est pas un adversaire comme les autres. Il est capable de manipuler les esprits et possède une force et une vitesse hors du commun...",
+      "release_date": "2005-10-18"
+    },
+    {
+      "vote_count": 222,
+      "id": 14919,
+      "video": false,
+      "vote_average": 7.4,
+      "title": "Batman contre le fantôme masqué",
+      "popularity": 8.560714,
+      "poster_path": "/l4jaQjkgznu2Rz05X18f24UjPNW.jpg",
+      "original_language": "en",
+      "original_title": "Batman: Mask of the Phantasm",
+      "genre_ids": [
+        28,
+        12,
+        16,
+        10751
+      ],
+      "backdrop_path": "/jTwt4fcYADv758PVP6DH8ryy4R.jpg",
+      "adult": false,
+      "overview": "Un parrain de la pègre est assassiné par un homme en cape noire. Le nouveau procureur Arthur Reeves accuse Batman. Désormais traqué, Batman enquête pour retrouver le véritable meurtrier. Mais dans le même temps, Bruce Wayne retrouve aussi une ancienne petite-amie, Andréa Beaumont, dont le père fut autrefois mêlé aux affaires des gangsters tués. L'occasion pour le chevalier noir de replonger dans son passé, à l'époque où il faillit renoncer à devenir un justicier...",
+      "release_date": "1993-12-25"
+    },
+    {
+      "vote_count": 222,
+      "id": 321528,
+      "video": false,
+      "vote_average": 6.8,
+      "title": "Batman vs. Robin",
+      "popularity": 6.466652,
+      "poster_path": "/6g7iQJAgyDn9mep98RXhLI64RcA.jpg",
+      "original_language": "en",
+      "original_title": "Batman vs. Robin",
+      "genre_ids": [
+        28,
+        12,
+        16
+      ],
+      "backdrop_path": "/oERfMmGc1GJRnC8IuFUH7zpR5z5.jpg",
+      "adult": false,
+      "overview": "L’ombre des buildings de Gotham City n’est pas l’endroit idéal pour un enfant, mais Damian Wayne est tout sauf un enfant ordinaire. C’est sous les traits d’un Robin tenace et téméraire qu’il suit désormais les traces de son célèbre père, Batman. Alors qu’il examine une scène de crime, Robin fait la connaissance d’un personnage mystérieux, Talon, qui l’entraîne dans une course qui pourrait bien changer sa vie, dans les profondeurs de la société secrète de Gotham, La Cour des Hiboux. Commence alors une dangereuse aventure au cours de laquelle Batman et Robin vont devoir affronter leurs pires ennemis : eux-mêmes",
+      "release_date": "2015-04-14"
+    }
+  ]
+}
